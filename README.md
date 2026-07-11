@@ -122,22 +122,6 @@ STATUS:         Actively deploying to production-grade challenges
 
 ---
 
-## 🐍 THE HUNT
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/theanshikasharma/theanshikasharma/output/dist/snake-dark.svg" alt="Snake eating contribution graph" width="100%"/>
-</div>
-
----
-
-## 🗺️ ISOMETRIC OPERATIONS MAP
-
-<div align="center">
-<img src="./metrics.isometric.svg" alt="Isometric contribution dashboard" width="100%"/>
-</div>
-
----
-
 ## 📈 ACTIVITY HEATMAP
 
 <div align="center">
