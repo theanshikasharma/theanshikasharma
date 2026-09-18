@@ -38,36 +38,41 @@ Update README.md
 </div>
 
 <div align="left">
+<div align="left">
 
 ### 🎯 TACTICAL OBJECTIVES COMPLETED
 
 ```diff
-+ 🛡️ SECURITY CLEARANCE: Developed Project Sentry
-  → Hybrid cryptography and agentic AI framework
-  → Presented at WACIIS-2025
-  → Advanced security protocols implementation
++ 💼 DELOITTE: BACKEND INTERN
++  → May 2026 – July 2026 | Gurugram, India (Hybrid)
++  → Architected and built a full-stack, AI-powered Client Management System
++  → Spring Boot microservices architecture with React and PostgreSQL
++  → Integrated MinIO and Groq Llama 3.1 for document intelligence
++  → Enabled natural language task orchestration
 
-+ ⚡ SPEED & BACKEND OPERATIONS: Hindustan Times Digital Streams
-  → Secure OTP-authentication systems
-  → Spring Boot + MongoDB architecture
-  → JWT & SHA-256 security implementation
++ 🛡️ SECURITY CLEARANCE: DEVELOPED PROJECT SENTRY
++  → Hybrid cryptography and agentic AI framework
++  → Presented at WACIIS-2025
++  → Advanced security protocols implementation
+
++ ⚡ SPEED & BACKEND OPERATIONS: HINDUSTAN TIMES DIGITAL STREAMS
++  → Secure OTP-authentication systems
++  → Spring Boot + MongoDB architecture
++  → JWT & SHA-256 security implementation
 
 + 🏆 DISTINGUISHED RANK & RECOGNITION
-  → Smart India Hackathon 2025 Finalist
-  → e-Yantra Round 2 Qualifier
-  → IEEE Banasthali Vidhyapith Core Member
++  → Smart India Hackathon 2025 Finalist
++  → e-Yantra Round 2 Qualifier
++  → IEEE Banasthali Vidhyapith Core Member
 
 + 🤝 COMMUNITY LEADERSHIP & OPERATIONS
-  → Content Development Chair - IEEE
-  → Technical Documentation Specialist
-  → Team Coordination & Strategy Planning
++  → Content Development Chair - IEEE
++  → Technical Documentation Specialist
++  → Team Coordination & Strategy Planning
 
 + ✍️ CREATIVE INTELLIGENCE DIVISION
-  → Expressive Writing & Poetry (@writeturn_)
-  → Content Creation & Strategic Communication
-```
-
-</div>
++  → Expressive Writing & Poetry (@writeturn_)
++  → Content Creation & Strategic Communication
 
 ---
 
