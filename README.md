@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=ANSHIKA%20SHARMA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Computer%20Science%20%7C%20AI%20%26%20Backend%20Engineering&descAlignY=55&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Backend+Engineer;AI+%26+Security+Enthusiast;Builder+%7C+Learner+%7C+Leader" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Backend+Engineer;AI+%26+ML+Researcher;NLP+%7C+CV+%7C+Security+Builder;Linux+%7C+Neural+Networks+%7C+GeoTech" alt="Typing animation" />
 </a>
 
 <p>
@@ -22,7 +22,33 @@
 
 </div>
 
-> B.Tech Computer Science undergraduate specializing in **Artificial Intelligence** at **Banasthali Vidhyapith** (Class of 2027). I enjoy building secure, scalable backend systems and practical AI-powered products.
+> Backend-focused Software Engineer with experience in Java, Spring Boot, MongoDB, and secure system design. I am passionate about building intelligent, scalable, and impactful solutions at the intersection of AI, backend engineering, NLP, computer vision, and applied research.
+
+<div align="center">
+
+## 🔍 Core Focus Areas
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--ML-Expert-FF9933?style=for-the-badge" alt="AI ML Expert" />
+  <img src="https://img.shields.io/badge/NLP-Text+Intelligence-138808?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Linux-CMD-FF9933?style=for-the-badge" alt="Linux" />
+  <img src="https://img.shields.io/badge/Neural-Networks-138808?style=for-the-badge" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/CV-Computer+Vision-FF9933?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/IP-Image+Processing-138808?style=for-the-badge" alt="Image Processing" />
+  <img src="https://img.shields.io/badge/Soft-Computing-FF9933?style=for-the-badge" alt="Soft Computing" />
+  <img src="https://img.shields.io/badge/Cognitive-Systems-138808?style=for-the-badge" alt="Cognitive Computing" />
+  <img src="https://img.shields.io/badge/GeoInformatics-Spatial+AI-FF9933?style=for-the-badge" alt="Geoinformatics" />
+</p>
+
+<div align="center">
+
+## 🧠 Summary
+
+</div>
+
+> I am especially interested in AI-driven problem solving, intelligent automation, secure backend architecture, and research-oriented engineering. My work spans backend development, natural language processing, computer vision, Linux systems, neural networks, and geospatial/intelligent data applications.
 
 <div align="center">
 
@@ -79,13 +105,14 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,javascript,html,css,mongodb,postgres,git,github" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,javascript,html,css,mongodb,postgres,git,github,linux" alt="Technology stack" />
 
 <p>
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring-FF9933?style=for-the-badge" alt="Java and Spring" />
+  <img src="https://img.shields.io/badge/AI%2FML-Python%20%7C%20NLP-138808?style=for-the-badge" alt="AI and ML" />
   <img src="https://img.shields.io/badge/JWT_&_SHA--256-FF9933?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT and SHA-256" />
   <img src="https://img.shields.io/badge/CRYPTOGRAPHY-138808?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF9933?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and ML" />
-  <img src="https://img.shields.io/badge/REST_API-138808?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/REST_API-FF9933?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 </div>
@@ -104,9 +131,9 @@
 
 ### 🛡️ Project Sentry
 
-**Hybrid Cryptography Framework**
+**Forensic Surveillance Framework**
 
-An advanced security framework combining agentic AI with hybrid cryptography protocols for next-generation data protection.
+An AI-integrated forensic surveillance framework combining SHA-256 validation, threat detection, tamper-resistant logging, and modular backend analytics for real-world anomaly detection.
 
 <img src="https://img.shields.io/badge/SECURITY-CRITICAL-FF9933?style=for-the-badge" alt="Critical security" />
 <img src="https://img.shields.io/badge/AI-ENABLED-138808?style=for-the-badge" alt="AI enabled" />
@@ -118,7 +145,7 @@ An advanced security framework combining agentic AI with hybrid cryptography pro
 
 **Secure Authentication Platform**
 
-Enterprise-grade OTP authentication with Spring Security, JWT tokens and SHA-256 encryption for a digital media platform.
+Built OTP-based registration and login flow using Spring Boot, MongoDB, JWT, and SHA-256 with clean modular REST APIs and secure authentication flow.
 
 <img src="https://img.shields.io/badge/BACKEND-SECURED-FF9933?style=for-the-badge" alt="Secured backend" />
 <img src="https://img.shields.io/badge/AUTH-JWT-138808?style=for-the-badge" alt="JWT authentication" />
@@ -132,7 +159,7 @@ Enterprise-grade OTP authentication with Spring Security, JWT tokens and SHA-256
 
 **National Innovation Challenge · Finalist**
 
-An innovative solution for national-level challenges, demonstrating technology integration and problem-solving capabilities.
+Developed an innovative solution for a national-level challenge, showing applied reasoning, systems thinking, and AI-driven problem solving.
 
 </td>
 <td width="50%" valign="top">
@@ -167,16 +194,10 @@ Leading technical content development and project coordination for the IEEE Bana
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/anshika-s-6605892ab/">
+<a href="https://www.linkedin.com/in/anshikas-6605892ab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/writeturn_/">
-  <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:anshika@example.com">
-  <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/theanshikasharma">
+<a href="https://github.com/theanshikasharma" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
